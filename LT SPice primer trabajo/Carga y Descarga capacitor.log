@@ -1,0 +1,26 @@
+Circuit: * C:\Users\mgenovesi\Desktop\Dase\LT SPice primer trabajo\Carga y Descarga capacitor.asc
+
+.OP point found by inspection.
+.step capacitance=1e-05
+.step capacitance=6e-05
+.step capacitance=0.00012
+.step capacitance=0.00016
+
+Date: Fri Mar 31 15:36:11 2023
+Total elapsed time: 0.178 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2502
+traniter = 2502
+tranpoints = 1252
+accept = 1215
+rejected = 37
+matrix size = 3
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1:       3 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2: 175 bytes object code size  0.1/0.1/[0.0]
+

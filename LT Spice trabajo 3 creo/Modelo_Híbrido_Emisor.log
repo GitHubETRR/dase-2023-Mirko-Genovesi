@@ -1,0 +1,24 @@
+Questionable use of curly braces in "b§hfe*ib vo 0  i={{hfe}*i(hie)}"
+    Error: undefined symbol in: "(hfe)*[i](hie)"
+Circuit: * C:\Users\mgenovesi\Desktop\Materias\Dase\LT Spice trabajo 3 creo\Modelo_Híbrido_Emisor.asc
+
+.OP point found by inspection.
+
+Date: Fri Nov 24 14:39:02 2023
+Total elapsed time: 0.044 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3048
+traniter = 3048
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.3/1.3/1.1
+Matrix Compiler1:       4 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
